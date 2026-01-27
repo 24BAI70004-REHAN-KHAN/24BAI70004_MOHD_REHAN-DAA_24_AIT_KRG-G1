@@ -14,6 +14,6 @@ T(n) = Θ(n^log₂3) ≈ Θ(n^1.585)
 C++
 
 ## Student Details
-Name: Aman Ojha  
-UID: 24BAI70520  
+Name: MOHD REHAN KHAN
+UID: 24BAI70004
 Group: KRG-G1
